@@ -1,6 +1,6 @@
 <!-- HEADER: Cyberpunk Coffee Glow -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=600&color=C19A6B&center=true&vCenter=true&width=700&lines=SSAI+YONT+SEIN+—+Coffee+Fueled+Coder+☕⚡;Crafting+Experiences;Full-Stack+Developer;Automation+%26+AI+Engineer">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=600&color=C19A6B&center=true&vCenter=true&width=700&lines=SAI+YONT+SEIN;Coffee+Fueled+Coder+☕⚡;Crafting+Experiences;Full-Stack+Developer;Automation+%26+AI+Engineer">
 </p>
 
 ---
