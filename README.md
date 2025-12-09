@@ -1,32 +1,84 @@
-# 💫 About Me:
-### Hi there 👋  <br><br>- 🔭 I'm currently working on **Vibe Coding**, a fun project mixing design and code.  <br>- 🤝 I'm looking to collaborate on **AI projects**, from chatbots to smart apps.  <br>- 🆘 I'm looking for help with **Education Purposes**, making learning easier for everyone.  <br>- 🌱 I'm currently learning **Vibe Coding** to sharpen my creative coding skills.  <br>- 💬 Ask me about **Python, GitHub tips, or cool coding tools**.  <br>- ⚡ Fun fact: I once built a mini game engine just to learn how games work.  <br><br>---<br><br>### 🛠️ Languages & Tools  <br>![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  <br>![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  <br>![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  <br>![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  <br>![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  <br><br>---<br><br>
+<!-- HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&pause=700&color=C778FF&center=true&vCenter=true&width=650&lines=Hey,+I'm+Aiboy5+👋;Full-Stack+Developer;AI+%26+Automation+Builder;Crafting+Modern+Digital+Experiences" />
+</p>
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
-(https://www.facebook.com/share/1MJwVwsxx2/)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)] 
-(https://youtube.com/@yont_sein?si=Jws5XCTLtQSILtav)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aiboy5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aiboy5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github.com/aiboy5.png" width="150" style="border-radius:50%; border: 3px solid #a855f7;">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aiboy5&icon=6&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YONT) [![Binance]
-BNB SMART CHAIN USDT : 0x73fbea7cc2521d5e4c95e8763c8de43ec7219bd5) 
+# 🌌 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💜 Neo-purple-themed developer building sleek & modern tools  
+⚡ Passionate about **AI, automation, and modern web frameworks**  
+🚀 Currently leveling up in **Node.js, Python, Cloud & ML**  
+🎯 Goal: Create smart, fast, futuristic applications  
+
+---
+
+# 🛠️ Tech Stack (Neo Purple Edition)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,react,nextjs,tailwind,express,html,css" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Stats (Purple Theme)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aiboy5&show_icons=true&title_color=C778FF&icon_color=C778FF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=aiboy5&theme=violet-punch&hide_border=true" />
+</p>
+
+---
+
+# 🧬 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aiboy5&bg_color=0d1117&color=C778FF&line=C778FF&point=FFFFFF&area_color=6b21a8&hide_border=true" />
+</p>
+
+---
+
+# 🐍 Neon Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/aiboy5">
+    <img src="https://skillicons.dev/icons?i=github" width="40">
+  </a>
+</p>
+
+---
+
+# 🚀 Featured Projects (Add Yours Here)
+
+- 🔮 **Neo Dashboard** – Modern purple dashboard UI  
+- ⚡ **AI Auto Bot** – Task automation with Node/Python  
+- 🧠 **Smart ML Tool** – Small but powerful ML utility  
+
+*(These are placeholders — tell me your real projects and I’ll make this section perfect.)*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3500&color=C778FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+💜;Let’s+build+something+awesome." />
+</p>
+
+<p align="center">
+  <strong>💜 Neo-Purple Aesthetic by @aiboy5</strong>
+</p>
